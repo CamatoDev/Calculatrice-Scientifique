@@ -27,7 +27,7 @@ Cette application propose deux modes :
 
 | Mode Standard | Mode Scientifique |
 |---------------|--------------------|
-| ![Standard](./screenshot_standard.png) | ![Scientifique](./screenshot_scientifique.png) |
+| ![Standard]![alt text](image.png) | ![Scientifique]![alt text](image-1.png) |
 
 *(renomme les images et ajoute-les au repo, ou utilise celles que tu m’as envoyées)*
 
